@@ -1,0 +1,25 @@
+Monk takes life and pain
+While life is as high as pain
+Let life be without pain
+
+Give life
+
+
+Count is 0
+While count is as low as 100
+Put count with 1 into count
+If Monk taking count, 3 is 0 and Monk taking count, 5 is 0
+Shout "FizzBuzz"
+Continue
+
+If Monk taking count, 3 is 0
+Shout "Fizz"
+Continue
+
+If Monk taking count, 5 is 0
+Shout "Buzz"
+Continue
+
+Shout count
+
+
